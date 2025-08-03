@@ -1,0 +1,20 @@
+{
+  "name": "roteirorefactoringjs",
+  "version": "1.0.0",
+  "description": "**Prof. Marco Tulio Valente**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabian2001B/RoteiroRefactoringJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabian2001B/RoteiroRefactoringJS/issues"
+  },
+  "homepage": "https://github.com/Fabian2001B/RoteiroRefactoringJS#readme"
+}
